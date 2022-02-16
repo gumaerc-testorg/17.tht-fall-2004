@@ -3,7 +3,7 @@ content_type: resource
 description: Wives of political prisoners who are protesting with children, Washington,
   DC, 1922. (Image courtesy of the Library of Congress, Prints and Photographs Division
   [reproduction number, LC-USZ6-1820 (b and w film copy neg.)])
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-tht-thesis-research-design-seminar-fall-2004/570fa27784f6893ec0ad120957be607f_17-thtf04-th.jpg
+file: /media/courses/17-tht-thesis-research-design-seminar-fall-2004/570fa27784f6893ec0ad120957be607f_17-thtf04-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Wives of political prisoners who are protesting with children, Washington,
@@ -13,6 +13,8 @@ image_metadata:
   credit: ''
   image-alt: Wives of political prisoners standing in a crowd with protest signs and
     an American flag.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Wives of Political Prisoners (thumbnail)
 uid: 570fa277-84f6-893e-c0ad-120957be607f
