@@ -3,7 +3,7 @@ content_type: resource
 description: Wives of political prisoners who are protesting with children, Washington,
   DC, 1922. (Image courtesy of the Library of Congress, Prints and Photographs Division
   [reproduction number, LC-USZ6-1820 (b and w film copy neg.)])
-file: /media/courses/17-tht-thesis-research-design-seminar-fall-2004/570fa27784f6893ec0ad120957be607f_17-thtf04-th.jpg
+file: /courses/17-tht-thesis-research-design-seminar-fall-2004/570fa27784f6893ec0ad120957be607f_17-thtf04-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Wives of political prisoners who are protesting with children, Washington,
@@ -19,3 +19,5 @@ resourcetype: Image
 title: Wives of Political Prisoners (thumbnail)
 uid: 570fa277-84f6-893e-c0ad-120957be607f
 ---
+Wives of political prisoners who are protesting with children, Washington, DC, 1922. (Image courtesy of the Library of Congress, Prints and Photographs Division [reproduction number, LC-USZ6-1820 (b and w film copy neg.)])
+
