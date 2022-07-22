@@ -14,10 +14,10 @@ image_metadata:
   image-alt: Wives of political prisoners standing in a crowd with protest signs and
     an American flag.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Wives of Political Prisoners (thumbnail)
 uid: 570fa277-84f6-893e-c0ad-120957be607f
 ---
 Wives of political prisoners who are protesting with children, Washington, DC, 1922. (Image courtesy of the Library of Congress, Prints and Photographs Division [reproduction number, LC-USZ6-1820 (b and w film copy neg.)])
-
