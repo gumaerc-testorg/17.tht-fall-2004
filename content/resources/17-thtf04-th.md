@@ -8,9 +8,9 @@ file_size: 6383
 file_type: image/jpeg
 image_metadata:
   caption: Wives of political prisoners who are protesting with children, Washington,
-    DC, 1922. (Image courtesy of the [Library of Congress, Prints and Photographs
-    Division](http://www.loc.gov/rr/print) \[reproduction number, LC-USZ6-1820 (b&w
-    film copy neg.)\])
+    DC, 1922. (Image courtesy of the {{% resource_link "f5e5a20c-9bfc-4f70-a6b2-71a3663f2a31"
+    "Library of Congress, Prints and Photographs Division" %}} \[reproduction number,
+    LC-USZ6-1820 (b&w film copy neg.)\])
   credit: ''
   image-alt: Wives of political prisoners standing in a crowd with protest signs and
     an American flag.
